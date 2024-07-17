@@ -4,7 +4,6 @@ import Skills from '@/components/Skills'
 import Projects from '@/components/Projects'
 import AboutMe from '@/components/AboutMe'
 import ContactMe from '@/components/ContactMe'
-import Instructor from '@/components/Instructor'
 const page = () => {
   return (
     <div>
